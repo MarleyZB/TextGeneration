@@ -14,4 +14,5 @@ Universidad Autónoma de Chihuahua - Facultad de Ingeniería
 
 # TextGeneration
 El siguiente código presenta una red neuronal con capas de GRU y capa densa softmax que procesa un archivo de 1'150,954 caracteres como compilatorio de scripts de películas de Christopher Nolan, tales como Interestellar, Justice League, Inception, The Dark Knight, entre otros, tomados de [kaggle](https://www.kaggle.com/datasets/blessondensil294/christopher-nolan-filmography-and-scripts).
-Liga al colab: 
+
+Liga al colab: https://colab.research.google.com/drive/1QprLBMbLGJVouXn96DST6QcypavupzhW?usp=sharing
